@@ -1,7 +1,7 @@
 # Machine Learning Projects Portfolio from DataScience-course
 
 
-All projects are solutions to assignments from a comprehensive Data Science course. This repository showcases a collection of diverse machine learning projects tackling various real-world challenges. 
+This repository showcases a collection of diverse machine learning projects, all of which are solutions to assignments from a comprehensive Data Science course, tackling various real-world challenges
 
 | **Project Name** | **Description** |
 |------------------|-----------------|
